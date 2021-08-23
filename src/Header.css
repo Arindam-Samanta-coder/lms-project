@@ -1,0 +1,14 @@
+.header {
+    height: 70px;
+    background: brown;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+}
+
+.header > h2 {
+    color: white;
+    display: flex;
+    margin-top: 20px;
+    
+}
